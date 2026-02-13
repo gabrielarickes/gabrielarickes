@@ -4,6 +4,8 @@
 
 Me chamo Gabriela Angelita Hessler Rickes, tenho 22 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio no IFSul Pelotas. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Universidade Católica de Pelotas (UCPel).
 
+---
+
 ### 🤖 Linguagens e Tecnologias
 
 <img 
@@ -13,6 +15,15 @@ Me chamo Gabriela Angelita Hessler Rickes, tenho 22 anos e sou natural do Rio Gr
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="C" 
+    title="C"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg " 
 />
 
 <br/>
