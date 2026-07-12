@@ -32,7 +32,7 @@ Me chamo Gabriela Angelita Hessler Rickes, tenho 22 anos e sou natural do Rio Gr
     title="Java"
     width="30px" 
     style="padding-right: 10px;" 
-    src="[https://codenet.pt/wp-content/uploads/2025/07/C.png](https://education.oracle.com/pt_BR/java-in-use-2020-beyond) " 
+    src=" https://education.oracle.com/file/general/p-80-java.png" 
 />
 
 <br/>
