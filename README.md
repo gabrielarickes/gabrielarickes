@@ -2,7 +2,7 @@
 
 **`Desenvolvedora Backend em processo`**
 
-Me chamo Gabriela Angelita Hessler Rickes, tenho 22 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio no IFSul Pelotas. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Universidade Católica de Pelotas (UCPel).
+Me chamo Gabriela Angelita Hessler Rickes, tenho 23 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio no IFSul Pelotas. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Universidade Católica de Pelotas (UCPel).
 
 ---
 
