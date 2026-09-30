@@ -32,7 +32,7 @@ Me chamo Gabriela Angelita Hessler Rickes, tenho 23 anos e sou natural do Rio Gr
     title="Java"
     width="30px" 
     style="padding-right: 10px;" 
-    src=" https://education.oracle.com/file/general/p-80-java.png" 
+    src=" [https://education.oracle.com/file/general/p-80-java.png](https://wiki.thema.inf.br/wiki/help/Special:Print?topic=ConfiguracaoJava)" 
 />
 
 <br/>
